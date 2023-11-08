@@ -87,5 +87,6 @@ var searchData=
   ['external_5funused_5fstring13_4034',['external_unused_string13',['../external_8c.html#aff6d461170cf5f4ba9d00d92b9fd56c2',1,'external.c']]],
   ['external_5funused_5fu32_5f0_4035',['external_unused_u32_0',['../external_8c.html#a58c8b01c8d04564092605e2fcf5e4d0a',1,'external.c']]],
   ['external_5funused_5fu32_5f1_4036',['external_unused_u32_1',['../external_8c.html#a54ea525efbf066bbad30b7dd9c4c527b',1,'external.c']]],
-  ['external_5funused_5fu32s_4037',['external_unused_u32s',['../external_8c.html#ab15296929af2501636eb7ff87a08e4ca',1,'external.c']]]
+  ['external_5funused_5fu32s_4037',['external_unused_u32s',['../external_8c.html#ab15296929af2501636eb7ff87a08e4ca',1,'external.c']]],
+  ['extra_5fbuffered_5fai_5fsamples_5ftarget_4038',['EXTRA_BUFFERED_AI_SAMPLES_TARGET',['../port__eu_8h.html#a98914a86dd34c501b3d6c721a69d2988',1,'port_eu.h']]]
 ];
